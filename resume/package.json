@@ -1,0 +1,14 @@
+{
+  "name": "Hammad Malik_resume",
+  "version": "1.0.0",
+  "main": "zacharylessner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachary Lessner",
+  "bin": {
+    "LessnerResume": "./index.js"
+  },
+  "license": "ISC",
+  "description": ""
+}
